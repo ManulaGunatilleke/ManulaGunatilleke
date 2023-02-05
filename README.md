@@ -5,4 +5,4 @@ hello!
 ## subheader
 
 another activity done!
-Nice to here.
+Nice to here!
