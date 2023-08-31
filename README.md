@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img src="./Gif.gif" height="290px" align="right" />
+<img src="./Manula.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website]()**
 
